@@ -1,0 +1,4 @@
+# Ignore environment and keys
+.env
+storage/keys/*
+vendor/
